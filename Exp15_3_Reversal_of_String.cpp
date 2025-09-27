@@ -23,3 +23,15 @@ int main() {
     cout<< a;
     return 0;
 }
+/* 
+Outputs:
+
+Case 1:
+Enter String: hello
+olleh
+
+Case 2:
+Enter String: world
+dlrow
+*/
+
