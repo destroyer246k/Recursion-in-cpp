@@ -18,3 +18,18 @@ int main() {
     cout << "Factorial is " << factorial(n);
     return 0;
 }
+/* 
+Outputs:
+
+Case 1:
+Enter Number to find factorial: 5
+Factorial is 120
+
+Case 2:
+Enter Number to find factorial: 0
+Factorial is 1
+
+Case 3:
+Enter Number to find factorial: 1
+Factorial is 1
+*/
