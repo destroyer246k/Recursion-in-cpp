@@ -18,3 +18,18 @@ int main() {
     cout << "Addition is " << add_n(n);
     return 0;
 }
+/* 
+Outputs:
+
+Case 1:
+Enter Number to find addition: 5
+Addition is 15
+
+Case 2:
+Enter Number to find addition: 10
+Addition is 55
+
+Case 3:
+Enter Number to find addition: 0
+Addition is 0
+*/
